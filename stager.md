@@ -1,0 +1,1 @@
+This is where all links will be placed before sorted them by subject matter. It is intended to be cleaned out after the links/descriptions are moved to appropriate folders. There is no relationship between commits and the contents of this file.

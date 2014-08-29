@@ -1,0 +1,1 @@
+This is where I store links that I find useful. I evenutally plan to segregate those that are permanently stored from those that are "active." I'm hoping this will prove more manageable than bookmarks in the browser.
